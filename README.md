@@ -21,7 +21,7 @@ portfolio to match.
 | Repo | What's in it |
 |---|---|
 | [`incident-writeups`](https://github.com/JordanBCode/incident-writeups) | Anonymized real incident case studies — AITM detection, EDR false-positive triage |
-| [`soc-home-lab`](https://github.com/JordanBCode/soc-home-lab) | **WIP **Self-built AD + Azure Sentinel lab — log ingestion, KQL detections, attack map |
+| [`soc-home-lab`](https://github.com/JordanBCode/soc-home-lab) | **WIP** Self-built AD + Azure Sentinel lab — log ingestion, KQL detections, attack map |
 | [`powershell-scripts`](https://github.com/JordanBCode/powershell-scripts) | PowerShell scripts for Microsoft 365, Exchange Online, and Windows endpoint administration |
 
 ---
