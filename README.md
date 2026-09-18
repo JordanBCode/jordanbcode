@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Jordan
 
-<!--
-**JordanBCode/jordanbcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **SOC / Security Analyst** based in Denver, CO — currently working 
+as an IT Assistant while building hands-on security experience and a 
+portfolio to match.
 
-Here are some ideas to get you started:
+- 🎓 CompTIA Security+ | B.S. Computer Science & Marketing
+- 🔍 Real-world experience investigating and resolving security incidents 
+  (phishing/AITM, EDR false positives)
+- 🧪 Building a home SOC lab (Active Directory + Azure Sentinel) to practice 
+  detection engineering and log analysis
+- ⚙️ Learning PowerShell for IAM and security automation
+- 🎯 Targeting SOC Analyst / Security Analyst roles — open to IAM and Cloud 
+  Security paths
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects
+
+| Repo | What's in it |
+|---|---|
+| [`incident-writeups`](https://github.com/JordanBCode/incident-writeups) | Anonymized real incident case studies — AITM detection, EDR false-positive triage |
+| [`soc-home-lab`](https://github.com/JordanBCode/soc-home-lab) | Self-built AD + Azure Sentinel lab — log ingestion, KQL detections, attack map |
+| [`powershell-scripts`](https://github.com/JordanBCode/powershell-scripts) | PowerShell scripts for IAM/SOC automation |
+
+---
+
+## 🛠️ Tools & Tech
+
+`Microsoft Defender` `Azure Sentinel` `KQL` `SentinelOne` `Active Directory` 
+`PowerShell` `VirusTotal` `Microsoft Exchange`
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/jhbridges) · 📍 Denver, CO
